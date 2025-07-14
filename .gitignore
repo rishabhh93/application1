@@ -1,1 +1,16 @@
-node_modules
+# Ignore all .env files
+.env
+*.env
+client/.env
+server/.env
+
+# Node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Log files
+*.log
+
+# System files
+.DS_Store
