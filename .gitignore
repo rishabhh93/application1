@@ -41,3 +41,4 @@ coverage/
 # package-lock.json   # Uncomment if using Yarn or pnpm instead
 # yarn.lock           # Uncomment if using npm or pnpm instead
 # pnpm-lock.yaml      # Uncomment if using npm or Yarn instead
+server/.env
